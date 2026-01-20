@@ -19,4 +19,4 @@ CMD ["yarn", "start"]
 
 # docker build . -t beamin_fe_nextjs
 
-# docker run -d -p 3001:3000 --name cons-next-tiki img-next-tiki
+# docker run -d -p 3002:3000 --name cons-next-tiki beamin_fe_nextjs
